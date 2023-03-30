@@ -1,0 +1,1 @@
+print(f"Hello {input()}, welcome to CS010V!")
